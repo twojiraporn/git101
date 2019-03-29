@@ -3,8 +3,5 @@ newwwwww
 
 
 
-<<<<<<< HEAD
 git101
-=======
-editttt
->>>>>>> 203f76c1762c6590c4a7b0f279cebc0a7a590d07
+
